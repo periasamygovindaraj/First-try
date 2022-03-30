@@ -1,3 +1,33 @@
 try to underrstand 
 the git hub line changed
 updated for push check
+
+
+
+
+git init
+ls
+git status
+git add [file_name]
+git add --all
+git rm --cached  [file name]
+git rm --force [file name]
+git commit -m "First release changes" 
+git config --global user.name"Your name"  
+git config --global user.email "xyz@gmail.com" 
+git log
+git config --global -l 
+git [command] -help
+git help --all
+git branch 
+git branch [my branch] 
+git checkout  -b  [new branch name]
+git checkout [branch name]
+git branch -d [branch name]
+git merge [branch name]
+git remote add origin Url
+git remote
+git branch -M [rename]
+git push --set-upstream origin master
+git push origin
+git branch -a
